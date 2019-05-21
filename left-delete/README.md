@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+[doc](https://www.helloweba.net/javascript/607.html)  
+[demo](https://www.helloweba.net/demo/2019/leftDelete/)  
+
 ## Build Setup
 
 ``` bash
